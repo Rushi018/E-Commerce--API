@@ -1,2 +1,23 @@
 # E-Commerce--API
 The E-Commerce Shopping website project is developed using Angular, Spring Boot, and REST API for performing CRUD (Create, Read, Update, Delete) operations. It aims to provide users with a platform to browse, search, and purchase products online.
+
+# Details : 
+The project is an e-commerce website developed using Angular, Spring Boot, and REST API. It allows the admin to add, edit, and delete products, providing details like name, description, price, and images. The admin has complete control over product management, ensuring efficient maintenance of the website's product catalog.
+
+# ER Diagram :
+
+![Screenshot 2023-06-16 003945](https://github.com/Rushi018/E-Commerce--API/assets/88101513/19eb1460-cf60-4f9c-9edb-7c3cf8ac81f9)
+
+
+# Tools :
+Angular
+Java
+Spring
+Spring Boot
+Spring Data JPA
+Hibernate
+MySQL
+Postman
+
+[![My Skills](https://skillicons.dev/icons?i=angular,java,spring,hibernate,mysql,postman)](https://skillicons.dev)
+

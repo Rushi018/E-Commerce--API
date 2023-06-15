@@ -21,3 +21,8 @@ Postman
 
 [![My Skills](https://skillicons.dev/icons?i=angular,java,spring,hibernate,mysql,postman)](https://skillicons.dev)
 
+# Screenshots :
+
+
+![Screenshot 2023-06-15 235739](https://github.com/Rushi018/E-Commerce--API/assets/88101513/3bcb2b9e-e716-4040-a5d7-7a707ce18dc6)
+![Screenshot 2023-06-16 000040](https://github.com/Rushi018/E-Commerce--API/assets/88101513/faee8e6e-1dea-4aba-9b32-69adbba0cc05)

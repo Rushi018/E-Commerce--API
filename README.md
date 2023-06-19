@@ -10,14 +10,14 @@ The project is an e-commerce website developed using Angular, Spring Boot, and R
 
 
 # Tools :
-Angular
-Java
-Spring
-Spring Boot
-Spring Data JPA
-Hibernate
-MySQL
-Postman
+1 Angular
+2 Java
+3 Spring
+4 Spring Boot
+5 Spring Data JPA
+6 Hibernate
+7 MySQL
+8 Postman
 
 [![My Skills](https://skillicons.dev/icons?i=angular,java,spring,hibernate,mysql,postman)](https://skillicons.dev)
 
